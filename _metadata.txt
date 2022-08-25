@@ -1,0 +1,23 @@
+generated-with: Easy Java/Javascript Simulations, version 6.0, build 191124. Visit http://www.um.es/fem/Ejs
+title: Damped oscillations of a liquid in a U tube
+logo-image: 
+author: Jorge García-Farieta and Fredy Orjuela
+copyright: 
+preferred-width: 1024
+preferred-height: 768
+author-image: JeGarFa.png
+source: Utube_oscillations_damped.ejss
+main-script: 
+main-simulation: Utube_oscillations_damped_Simulation.xhtml
+available-languages: 
+html-description: Utube_oscillations_damped_Intro_2.html
+html-description: Utube_oscillations_damped_Intro_1.html
+html-contents: Utube_oscillations_damped_Contents.xhtml
+html-main: Utube_oscillations_damped.xhtml
+page-title: Introduction
+page-index: Utube_oscillations_damped_Intro_1.html
+page-title: Activities
+page-index: Utube_oscillations_damped_Intro_2.html
+page-title: Damped oscillations of a liquid in a U tube
+page-index: Utube_oscillations_damped_Simulation.xhtml
+resource: JeGarFa.png

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+<ModulePrefs
+title="Utube_oscillations_damped"
+author="Jorge García-Farieta and Fredy Orjuela"
+description="This is the simulation of the motion of a mass m situated at the end of a spring of length l and negligible mass. The motion is restricted to the horizontal dimension. "
+screenshot=""
+thumbnail="">
+<Require feature="opensocial-0.9"/>
+<Require feature="dynamic-height"/>
+</ModulePrefs>
+<Content type="html" href="Utube_oscillations_damped_Simulation.xhtml"/>
+</Module>
