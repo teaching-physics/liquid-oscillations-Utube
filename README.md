@@ -1,2 +1,2 @@
 # liquid-oscillations-Utube
-This repository contains the data and simulation that recreate the results of an experiment of oscillations of a liquid column in a U tube
+## This repository contains the data and simulation shown in the paper: Modelling and experimental approach for damped oscillations of a liquid column in U-Tubes.
